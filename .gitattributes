@@ -2,3 +2,4 @@
 *.R linguist-language=R
 *.nb.html linguist-language=R
 *.Rproj linguist-language=R
+*.html linguist-language=R
